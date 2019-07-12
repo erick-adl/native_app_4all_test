@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">4all-Task</string>
+
+    <string name="request_error">Falha ao recuperar dados</string>
+
+    <string name="services_label">Serviços</string>
+
+    <string name="title_activity_maps">Maps</string>
+    <string name="error_request">Falha ao comunicar-se com o servidor</string>
+</resources>
